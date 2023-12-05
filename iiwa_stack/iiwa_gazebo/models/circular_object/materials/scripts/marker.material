@@ -1,0 +1,14 @@
+material Marker
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture yellow.png
+        scale 0.15 0.01
+      }
+    }
+  }
+}
